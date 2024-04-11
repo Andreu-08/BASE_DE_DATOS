@@ -1,0 +1,1 @@
+select nombre from producto
